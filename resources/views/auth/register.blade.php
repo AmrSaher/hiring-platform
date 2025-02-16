@@ -12,5 +12,6 @@
         <x-forms.input label="Employer Logo" name="employer_logo" type="file" />
 
         <x-forms.button>Sign Up</x-forms.button>
+        <p class="text-gray-400">Read terms and conditions</p>
     </x-forms.form>
 </x-layout>

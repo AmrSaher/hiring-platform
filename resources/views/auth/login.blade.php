@@ -5,5 +5,6 @@
         <x-forms.input label="Password" name="password" type="password" placeholder="Enter your password" />
 
         <x-forms.button>Log In</x-forms.button>
+        <p class="text-gray-400">Read terms and conditions</p>
     </x-forms.form>
 </x-layout>
